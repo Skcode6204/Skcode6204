@@ -1,3 +1,4 @@
+![logo](https://www.francis.edu/sites/default/files/styles/hero_1920_auto/public/2022-01/Program%20%20collage%20banners%20%2825%29.png?itok=Vv-YHtNY)
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Software Engineer & frontend developer from India</h3>
 
